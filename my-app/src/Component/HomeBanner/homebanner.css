@@ -1,0 +1,52 @@
+.banner{
+   background-image:url('https://c4.wallpaperflare.com/wallpaper/1017/842/358/tv-banshee-breaking-bad-vikings-wallpaper-preview.jpg');
+   width: 100%;
+   min-height: 130vh;
+  
+   
+ 
+}
+
+.ban{
+    width: 100%;
+    height: 130vh;
+    background-image: linear-gradient(360deg,#000,transparent 50%,#111); 
+    
+    
+}
+    
+
+
+.desc{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    color: rgb(235, 222, 222);
+    font-weight: bold;
+    font-family: 'Rowdies', cursive;
+    width:600px;
+    line-height: 2rem;
+    letter-spacing: 0.1rem;
+    height: 220px;
+    background-image: linear-gradient(360deg,#151414,transparent 10%,#080808);
+    text-shadow: 4px 4px #070707;
+    
+    border-radius: 30%;
+    
+    
+    
+}
+.desc h1,.subh1{
+    
+  text-align: center;
+
+}
+.subh1{
+    color:#dec328;
+    background-color: #9e0c13;
+    width: 520px;
+    border-radius: 5%;
+    margin-left: 30px;
+    
+  
+}
